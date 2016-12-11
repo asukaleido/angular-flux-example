@@ -1,0 +1,33 @@
+@import '../variables.css';
+
+html {
+  box-sizing: border-box;
+  color: var(--hybrid-lt-wht);
+  font-family: var(--font-family);
+  font-size: var(--font-default-persent);
+  line-height: var(--line-height);
+}
+
+blockquote,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}

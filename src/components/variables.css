@@ -1,0 +1,40 @@
+:root {
+  /*
+   * Typography
+   * ======================================================================== */
+
+  --font-family: 'Roboto', sans-serif;
+  --font-default-persent: 62.5%;
+  --font-size: 1.6rem;
+  --line-height: 1.5;
+
+  /*
+   * Layout
+   * ======================================================================== */
+
+  --max-content-width: 1000px;
+  --space: 10px;
+
+  /*
+   * Color
+   * ======================================================================== */
+
+  --hybrid-background: #232c31;
+  --hybrid-foreground: #c5c8c6;
+  --hybrid-dk-blk: #2d3c46;
+  --hybrid-lt-blk: #425059;
+  --hybrid-dk-red: #a54242;
+  --hybrid-lt-red: #c66;
+  --hybrid-dk-grn: #8c9440;
+  --hybrid-lt-grn: #b5bd68;
+  --hybrid-dk-yel: #de935f;
+  --hybrid-lt-yel: #f0c674;
+  --hybrid-dk-blu: #5f819d;
+  --hybrid-lt-blu: #81a2be;
+  --hybrid-dk-mag: #85678f;
+  --hybrid-lt-mag: #b294bb;
+  --hybrid-dk-cyn: #5e8d87;
+  --hybrid-lt-cyn: #8abeb7;
+  --hybrid-dk-wht: #6c7a80;
+  --hybrid-lt-wht: #c5c8c6;
+}
